@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5310CC71-56A1-46FF-ADA6-3FAEEF4611AC}|Default">
+  <MonoDevelop.Ide.ItemProperties.3__XuatHaiSoNguyen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="3_XuatHaiSoNguyen/Program.cs">
+    <Files>
+      <File FileName="3_XuatHaiSoNguyen/Program.cs" Line="12" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3_XuatHaiSoNguyen" expanded="True">
+            <Node name="3_XuatHaiSoNguyen" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

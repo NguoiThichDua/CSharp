@@ -1,0 +1,6 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_1/10_TTSV/10_TTSV/10_TTSV/bin/Debug/10_TTSV.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/10_TTSV/10_TTSV/10_TTSV/bin/Debug/10_TTSV.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_1/10_TTSV/10_TTSV/10_TTSV/obj/x86/Debug/10_TTSV.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/10_TTSV/10_TTSV/10_TTSV/obj/x86/Debug/10_TTSV.csproj.CoreCompileInputs.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/10_TTSV/10_TTSV/10_TTSV/obj/x86/Debug/10_TTSV.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/10_TTSV/10_TTSV/10_TTSV/obj/x86/Debug/10_TTSV.pdb

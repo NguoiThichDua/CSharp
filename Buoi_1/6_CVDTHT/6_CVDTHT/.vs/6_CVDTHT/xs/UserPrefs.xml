@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5799E3B1-43D4-43B7-997A-3EE5990AB2AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="6_CVDTHT/Program.cs">
+    <Files>
+      <File FileName="6_CVDTHT/Program.cs" Line="11" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="6_CVDTHT" expanded="True">
+            <Node name="6_CVDTHT" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.6__CVDTHT PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

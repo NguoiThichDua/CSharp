@@ -1,0 +1,6 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_1/XuatTen/XuatTen/XuatTen/bin/Debug/XuatTen.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/XuatTen/XuatTen/XuatTen/bin/Debug/XuatTen.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_1/XuatTen/XuatTen/XuatTen/obj/x86/Debug/XuatTen.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/XuatTen/XuatTen/XuatTen/obj/x86/Debug/XuatTen.csproj.CoreCompileInputs.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/XuatTen/XuatTen/XuatTen/obj/x86/Debug/XuatTen.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/XuatTen/XuatTen/XuatTen/obj/x86/Debug/XuatTen.pdb

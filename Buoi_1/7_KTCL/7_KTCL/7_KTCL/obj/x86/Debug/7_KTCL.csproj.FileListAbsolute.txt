@@ -1,0 +1,6 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_1/7_KTCL/7_KTCL/7_KTCL/bin/Debug/7_KTCL.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/7_KTCL/7_KTCL/7_KTCL/bin/Debug/7_KTCL.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_1/7_KTCL/7_KTCL/7_KTCL/obj/x86/Debug/7_KTCL.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/7_KTCL/7_KTCL/7_KTCL/obj/x86/Debug/7_KTCL.csproj.CoreCompileInputs.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/7_KTCL/7_KTCL/7_KTCL/obj/x86/Debug/7_KTCL.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/7_KTCL/7_KTCL/7_KTCL/obj/x86/Debug/7_KTCL.pdb

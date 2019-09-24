@@ -1,0 +1,6 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_CVDTHCN/5_CVDTHCN/5_CVDTHCN/bin/Debug/5_CVDTHCN.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_CVDTHCN/5_CVDTHCN/5_CVDTHCN/bin/Debug/5_CVDTHCN.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_CVDTHCN/5_CVDTHCN/5_CVDTHCN/obj/x86/Debug/5_CVDTHCN.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_CVDTHCN/5_CVDTHCN/5_CVDTHCN/obj/x86/Debug/5_CVDTHCN.csproj.CoreCompileInputs.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_CVDTHCN/5_CVDTHCN/5_CVDTHCN/obj/x86/Debug/5_CVDTHCN.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_CVDTHCN/5_CVDTHCN/5_CVDTHCN/obj/x86/Debug/5_CVDTHCN.pdb

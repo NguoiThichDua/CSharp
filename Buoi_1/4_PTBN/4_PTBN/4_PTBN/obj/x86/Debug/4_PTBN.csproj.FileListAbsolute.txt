@@ -1,0 +1,6 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_1/4_PTBN/4_PTBN/4_PTBN/bin/Debug/4_PTBN.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/4_PTBN/4_PTBN/4_PTBN/bin/Debug/4_PTBN.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_1/4_PTBN/4_PTBN/4_PTBN/obj/x86/Debug/4_PTBN.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/4_PTBN/4_PTBN/4_PTBN/obj/x86/Debug/4_PTBN.csproj.CoreCompileInputs.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/4_PTBN/4_PTBN/4_PTBN/obj/x86/Debug/4_PTBN.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/4_PTBN/4_PTBN/4_PTBN/obj/x86/Debug/4_PTBN.pdb

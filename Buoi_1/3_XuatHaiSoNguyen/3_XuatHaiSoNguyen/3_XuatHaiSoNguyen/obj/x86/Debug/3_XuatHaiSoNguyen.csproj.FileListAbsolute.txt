@@ -1,0 +1,6 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_1/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/obj/x86/Debug/3_XuatHaiSoNguyen.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/obj/x86/Debug/3_XuatHaiSoNguyen.csproj.CoreCompileInputs.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/bin/Debug/3_XuatHaiSoNguyen.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/bin/Debug/3_XuatHaiSoNguyen.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_1/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/obj/x86/Debug/3_XuatHaiSoNguyen.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/3_XuatHaiSoNguyen/obj/x86/Debug/3_XuatHaiSoNguyen.pdb

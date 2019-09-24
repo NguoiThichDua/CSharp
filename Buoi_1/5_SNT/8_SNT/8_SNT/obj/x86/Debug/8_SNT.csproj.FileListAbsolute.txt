@@ -1,0 +1,6 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_SNT/8_SNT/8_SNT/bin/Debug/8_SNT.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_SNT/8_SNT/8_SNT/bin/Debug/8_SNT.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_SNT/8_SNT/8_SNT/obj/x86/Debug/8_SNT.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_SNT/8_SNT/8_SNT/obj/x86/Debug/8_SNT.csproj.CoreCompileInputs.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_SNT/8_SNT/8_SNT/obj/x86/Debug/8_SNT.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/5_SNT/8_SNT/8_SNT/obj/x86/Debug/8_SNT.pdb

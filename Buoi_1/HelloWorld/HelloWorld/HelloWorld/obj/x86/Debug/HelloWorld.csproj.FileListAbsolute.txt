@@ -1,0 +1,6 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_1/HelloWorld/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/HelloWorld/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_1/HelloWorld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/HelloWorld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_1/HelloWorld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_1/HelloWorld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb

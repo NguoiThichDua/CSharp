@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9499F8FF-6472-4858-A925-09B493894DD2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="10_TTSV/Program.cs">
+    <Files>
+      <File FileName="10_TTSV/Program.cs" Line="17" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="10_TTSV" expanded="True">
+            <Node name="10_TTSV" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.10__TTSV PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
